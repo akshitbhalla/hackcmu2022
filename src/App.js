@@ -3,7 +3,7 @@ import { useEffect } from "react";
 
 function App() {
   useEffect(() => {
-    fetch("https://api.agify.io?name=michael")
+    fetch("https://dog.ceo/api/breeds/image/random")
       .then((response) => response.json())
       .then((json) => console.log(json));
   }, []);

@@ -2,7 +2,7 @@
 
 This is a sample project to learn using ```fetch()``` for making API calls.
 
-Note that the ```fetch()``` method in JavaScript can be used independenty of React. This sample is bootstrapped simply to provide a base project structure you can start working with.
+Note that the ```fetch()``` method in JavaScript can be used independently of React. This sample is bootstrapped simply to provide a base project structure you can start working with.
 
 
 ## Getting Started
